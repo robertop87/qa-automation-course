@@ -1,0 +1,20 @@
+{
+  "name": "introduction",
+  "version": "1.0.0",
+  "description": "Introduction to Gherkin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gherkin",
+    "intro",
+    "bdd"
+  ],
+  "author": "Luis Roberto Perez",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^4.2.1"
+  }
+}
